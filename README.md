@@ -1,4 +1,4 @@
-# -Redu-o-dos-Custos-em-Farm-cias-com-AWSClaro! 
+# -Redução-dos-Custos-em-Farmacias-com-AWS! 
 
 ---
 
